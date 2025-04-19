@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Bem-vindo ao meu repositório
 
+Este é o repositório **log-icaroramosmaciel**, onde estou começando a organizar meus estudos, projetos e aprendizados no mundo da programação.
 
-**log-icaroramosmaciel/log-icaroramosmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Sobre mim
 
-Here are some ideas to get you started:
+Meu nome é **Ícaro Ramos Maciel** e estou começando minha jornada como desenvolvedor. Gosto de aprender coisas novas, experimentar tecnologias e compartilhar o que estou descobrindo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚧 O que você vai encontrar aqui
 
+- Meus primeiros projetos
+- Códigos de estudo
+- Anotações e ideias
+- Testes e experimentos
+
+## 🚀 Tecnologias que estou aprendendo
+
+- HTML, CSS e JavaScript
+- Python
+- Git e GitHub
+- E muito mais em breve!
+
+## 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/icaroramosmaciel**)
+- 📧 **icarorm.log@gmail.com**
+
+---
+
+Obrigado por visitar! 🌟
