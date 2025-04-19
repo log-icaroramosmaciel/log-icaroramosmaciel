@@ -22,7 +22,7 @@ Meu nome é **Ícaro Ramos Maciel** e estou começando minha jornada como desenv
 
 ## 📬 Contato
 
-- [LinkedIn](**https://www.linkedin.com/in/icaroramosmaciel**)
+- [LinkedIn](https://www.linkedin.com/in/icaroramosmaciel)
 - 📧 **icarorm.log@gmail.com**
 
 ---
